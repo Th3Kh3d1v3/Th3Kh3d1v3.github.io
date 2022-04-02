@@ -1,3 +1,3 @@
-# Th3Kh3d1v3.github.io
+# Ledger Crypto Hardware Wallet Discount
 
-To the moon
+Contains link to get 20% discount on Ledger Nano X or Nano S Plus
