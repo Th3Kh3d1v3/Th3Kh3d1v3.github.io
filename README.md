@@ -1,3 +1,3 @@
-# Ledger Crypto Hardware Wallet Discount
+# Crypto Discounts
 
-Contains link to get 20% discount on Ledger Nano X or Nano S Plus
+Contains link to get 20% discount on crypto walllets and exchanges
